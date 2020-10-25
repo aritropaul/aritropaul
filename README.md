@@ -5,3 +5,5 @@ I am Aritro, and I am a CSE grad from VIT, Vellore. I am a product designer and 
 In my free time, I work on a host of 🤞🏻&nbsp; side projects, some culminating into good stuff, while others land in the graveyard. If (hopefully) the pandemic ceases a little, I'll be doing a master's in HCI at the 🏛&nbsp; University of Maryland, College Park.
 
 Send me an ✉️ &nbsp; [email](mailto:aritro.paul61@gmail.com), or a 💬 &nbsp; DM on instagram or twitter.
+
+[![Aritro's github stats](https://github-readme-stats.vercel.app/api?username=aritropaul)](https://github.com/anuraghazra/github-readme-stats)
