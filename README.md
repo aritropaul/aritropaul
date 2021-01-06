@@ -6,4 +6,4 @@ In my free time, I work on a host of 🤞🏻&nbsp; side projects, some culminat
 
 Send me an ✉️ &nbsp; [email](mailto:aritro.paul61@gmail.com), or a 💬 &nbsp; DM on instagram or twitter.
 
-[![Aritro's github stats](https://github-readme-stats.vercel.app/api?username=aritropaul&bg_color=161b22)](https://github.com/anuraghazra/github-readme-stats)
+[![Aritro's github stats](https://github-readme-stats.vercel.app/api?username=aritropaul&bg_color=161b22&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
