@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aritro, and I am a CSE grad from VIT, Vellore, and a Master's Student in HCI at the 🏛&nbsp; University of Maryland, College Park. . I am a product designer and iOS Developer. I sometimes post my work on 📷 &nbsp; [instagram](https://www.instagram.com/not.a.coder), and ofc, here. I tweet about stuff on my 🐦 &nbsp;[twitter](https://twitter.com/aritrotwt), and you can find some of my work on 👨🏻‍💻 &nbsp;[here](https://aritro.work). Sometimes I do web stuff too. You can find my 🌐 &nbsp;[website](https://aritro.xyz) here.
+I am Aritro, and I am a CSE grad from VIT, Vellore, and a Master's Student in HCI at the 🏛&nbsp; University of Maryland, College Park. I am a product designer and iOS Developer. I sometimes post my work on 📷 &nbsp; [instagram](https://www.instagram.com/not.a.coder), and ofc, here. I tweet about stuff on my 🐦 &nbsp;[twitter](https://twitter.com/aritrotwt), and you can find some of my work on 👨🏻‍💻 &nbsp;[here](https://aritro.work). Sometimes I do web stuff too. You can find my 🌐 &nbsp;[website](https://aritro.xyz) here.
 
 In my free time, I work on a host of 🤞🏻&nbsp; side projects, some culminating into good stuff, while others land in the graveyard.
 
